@@ -48,7 +48,7 @@ I'm a self-taught passionate backend developer from HongKong :hong_kong:
 </a>
 <br/>
 
-**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂: (alphabetically)**  
+**Languages & Tools: (alphabetically)**  
 <br/>
 <br/>
 <code><img height="40" width="40" src="https://simpleicons.org/icons/css3.svg" style="filter: invert(29%) sepia(67%) saturate(1428%) hue-rotate(180deg) brightness(101%) contrast(87%);"></code>
@@ -72,3 +72,88 @@ I'm a self-taught passionate backend developer from HongKong :hong_kong:
 <code><img height="40" width="40" src="https://simpleicons.org/icons/portainer.svg" style="filter: invert(56%) sepia(83%) saturate(900%) hue-rotate(159deg) brightness(97%) contrast(102%);"></code>
 
 and more...
+
+<br/>
+
+#
+
+<details open="">
+<summary>
+  <strong>GitHub Stats</strong>
+</summary>
+<br>
+
+<p align="center">
+  <a href="https://github.com/JayantGoel001">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sunxyw&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=nightowl"/>
+  </a>
+  <a href="https://github.com/JayantGoel001">
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunxyw&layout=compact&hide_border=true&theme=nightowl&langs_count=10" />
+  </a>
+</p>
+</details>
+<br>
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=sunxyw&theme=material-palenight&hide_border=true&area=true)
+<br/>
+
+#
+
+<summary>
+  <strong>WakaTime Stats</strong>
+</summary>
+
+<a target="_blank">
+  <img align="right" height="330px" width="450px" src="https://wakatime.com/share/@sunxyw/88cd675d-f104-4d81-b895-0e01e5f14045.svg" >
+</a>
+
+<br>
+<br>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<p align="center">
+  <a>
+    <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@sunxyw/81c35232-8190-44dc-bf6a-4e5a1f5bce02.svg"/>
+  </a>
+  <a>
+    <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@sunxyw/ac01922a-c108-4658-9047-2aac79770767.svg" />
+  </a>
+</p>
+
+#
+
+<p align="center">
+  <a href="https://github.com/sunxyw">
+    <img height="50" width="50" src="https://simpleicons.org/icons/github.svg">  
+  </a>
+  <h4 align="center">GitHub Metrics</h4>
+</p>
+
+<p align="center">
+  <a href="https://github.com/JayantGoel001/">
+    <img width="75%" src="assets/metrics.svg" />
+    <img width="75%" src="assets/metrics.detailed.svg" />
+  </a>
+</p>
+
+<h1>Contact Me</h1>
+
+<p align="center">
+  <br>
+  <a href="https://twitter.com/sunxyw" target="_blank">
+    <code><img height="60" width="60" src="https://simpleicons.org/icons/twitter.svg" /></code>
+  </a>
+</p>
+
+<br/>
+<br/>
+
+<div align="center">
+
+### Thanks for your visit!
+
+</div>
+
+#
