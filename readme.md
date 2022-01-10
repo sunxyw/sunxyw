@@ -111,6 +111,78 @@ and more...
 <br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-680%20hrs%2016%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 9 Contributions in the Year 2022
+ > 
+> 📦 592.5 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 76 Public Repositories 
+ > 
+> 🔑 16 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    35 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.77% 
+🌆 Daytime    124 commits    █████████░░░░░░░░░░░░░░░░   38.15% 
+🌃 Evening    136 commits    ██████████░░░░░░░░░░░░░░░   41.85% 
+🌙 Night      30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.23%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.23% 
+Tuesday      29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.92% 
+Wednesday    45 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.85% 
+Thursday     68 commits     █████░░░░░░░░░░░░░░░░░░░░   20.92% 
+Friday       35 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.77% 
+Saturday     63 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.38% 
+Sunday       55 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.92%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in PHP** 
+
+```text
+PHP                      36 repos            █████████████████░░░░░░░░   67.92% 
+HTML                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.32% 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   3.77% 
+Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   3.77% 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.89%
+
+```
+
+
+
+ Last Updated on 10/01/2022
 <!--END_SECTION:waka-->
 
 <p align="center">
