@@ -111,7 +111,7 @@ and more...
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-680%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-681%20hrs%208%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
 
@@ -156,16 +156,23 @@ Sunday       55 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      17 mins             ████████░░░░░░░░░░░░░░░░░   34.49% 
+Markdown                 17 mins             ████████░░░░░░░░░░░░░░░░░   34.11% 
+YAML                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.12% 
+JSON                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.85% 
+GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   3.09%
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 51 mins             █████████████████████████   100.0% 
+PhpStorm                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+php-libonebot            32 mins             ████████████████░░░░░░░░░   63.54% 
+profile                  18 mins             █████████░░░░░░░░░░░░░░░░   36.46% 
+Asgard                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  51 mins             █████████████████████████   100.0%
 
 ```
 
@@ -182,7 +189,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/01/2022
+ Last Updated on 12/01/2022
 <!--END_SECTION:waka-->
 
 <p align="center">
