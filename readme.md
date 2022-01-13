@@ -1,3 +1,6 @@
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=botuniverse&repo=php-libonebot&show_owner=true)](https://github.com/botuniverse/php-libonebot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sunxyw&repo=laravel-quick-role&show_owner=true)](https://github.com/sunxyw/laravel-quick-role)
+
 <h1 align="center">
   Hi There
 </h1>
