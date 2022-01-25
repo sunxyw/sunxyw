@@ -115,13 +115,11 @@ and more...
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-694%20hrs%201%20min-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 19 Contributions in the Year 2022
+> 🏆 20 Contributions in the Year 2022
  > 
 > 📦 592.6 kB Used in GitHub's Storage 
  > 
@@ -187,7 +185,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/01/2022 00:58:31 UTC
+ Last Updated on 25/01/2022 01:05:59 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
