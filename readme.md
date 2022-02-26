@@ -115,8 +115,6 @@ and more...
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-778%20hrs%2040%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -193,7 +191,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/02/2022 01:10:52 UTC
+ Last Updated on 26/02/2022 01:06:05 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
