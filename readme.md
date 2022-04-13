@@ -26,7 +26,7 @@ I'm a self-taught passionate backend developer from HongKong :hong_kong:
     Age: 17
     Hobbies: [ Gaming Coding ]
     Languages: [ Chinese English ]
-
+    Email: social.github@sunxyw.xyz
 ```
 
 <br/>
