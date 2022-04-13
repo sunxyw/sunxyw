@@ -30,7 +30,6 @@ I'm a self-taught passionate backend developer from HongKong :hong_kong:
 ```
 
 <br/>
-<br/>
 
 <p align="center">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/sunxyw?logo=github&style=for-the-badge">
