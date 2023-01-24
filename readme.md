@@ -41,15 +41,15 @@ I'm a self-taught passionate backend developer from HongKong :hong_kong:
     <img align="center" height="300" width="300" alt="Software" src="assets/software.svg">
 </p>
 
-<img align="right" width="400" src="https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,nuxt,next,django,flutter,electron,bootstrap,gatsby,nest,tailwind,windi,express,svelte,angular,dotnetcore,laravel,ionic,dotnet&includeNames=true">
+<img align="right" width="400" src="https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,nuxt,electron,bootstrap,tailwind,windi,laravel,dotnet&includeNames=true">
 
-<img width="400" src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,python,html,css,c,cpp,csharp,swift,rust,ruby,kotlin,erlang,dart,go,scala,elm,bash,r,xml,json,yaml,postgresql,mysql,haskell,powershell,lua,visualbasic,x86,arm,groovy,perl,solidity,fortran,sass,graphql,clojure,clojurescript,markdown&includeNames=true">
+<img width="400" src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,python,html,css,csharp,go,bash,xml,json,yaml,postgresql,mysql,sass,graphql,markdown&includeNames=true">
 
-<img align="right" width="400" src="https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yarn,webpack,gulp,firebase,mongodb,wordpress,shopify,woocommerce,vercel,redis,nodejs,heroku,apache,nginx,aws,jupyter,gradle,prettier&includeNames=true">
+<img align="right" width="400" src="https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yarn,webpack,firebase,mongodb,wordpress,vercel,redis,nodejs,heroku,apache,nginx,aws,jupyter,gradle,prettier&includeNames=true">
 
-<img width="400" src="https://github-widgetbox.vercel.app/api/skills?libraries=babel,p5,tensorflow,jquery&includeNames=true">
+<img width="400" src="https://github-widgetbox.vercel.app/api/skills?libraries=babel,jquery&includeNames=true">
 
-<img align="right" width="400" src="https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode&includeNames=true">
+<img align="right" width="400" src="https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode,phpstorm&includeNames=true">
 
 <br/>
 
