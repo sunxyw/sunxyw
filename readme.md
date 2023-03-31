@@ -152,17 +152,17 @@ No Activity Tracked This Week
 **I Mostly Code in PHP** 
 
 ```text
-PHP                      66 repos            ███████████████░░░░░░░░░░   58.93 % 
-Go                       8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-Vue                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
-SCSS                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+PHP                      65 repos            ███████████████░░░░░░░░░░   58.56 % 
+Go                       8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+Vue                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+SCSS                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 ```
 
 
 
 
- Last Updated on 30/03/2023 01:29:32 UTC
+ Last Updated on 31/03/2023 01:27:11 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
