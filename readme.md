@@ -94,7 +94,7 @@ By the way, I am available for work.
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C403%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C404%20hrs%2046%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.0%20million%20lines%20of%20code-blue)
 
@@ -137,16 +137,21 @@ Sunday                   656 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Vue.js                   28 mins             ███████████████░░░░░░░░░░   61.24 % 
+TypeScript               9 mins              █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
+JavaScript               3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+CSS                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PhpStorm                 47 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+magland                  44 mins             ████████████████████████░   95.19 % 
+Unknown Project          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  47 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -162,7 +167,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/04/2023 01:22:48 UTC
+ Last Updated on 04/04/2023 01:28:58 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
