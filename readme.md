@@ -1,223 +1,28 @@
-### Featured Repos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhamao-robot&repo=zhamao-framework&show_owner=true)](https://github.com/zhamao-robot/zhamao-framework)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sunxyw&repo=minecraft-protocol&show_owner=true)](https://github.com/sunxyw/minecraft-protocol)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=botuniverse&repo=php-libonebot&show_owner=true)](https://github.com/botuniverse/php-libonebot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sunxyw&repo=go-spiget&show_owner=true)](https://github.com/sunxyw/go-spiget)
-
-<h1 align="center">
-  Hi There
-</h1>
-
-<p align="center">
-My name is sunxyw, welcome to my GitHub profile<br>
-I'm a self-taught passionate backend developer from HongKong :hong_kong:
-</p>
-
-> Please note that the following information (especially the skills) may be out of date as it was last updated 2 years ago. An update is planned.
-
-<br/>
-<a target="_blank">
-    <img align="right" height="220" width="400" alt="GIF" src="assets/programmer.svg">
-</a>
-
-```csharp
-    Personal Information
-    ------------------------------------------
-    Nickname: sunxyw
-    Pronouns: [ He Him His ]
-    Age: 17
-    Hobbies: [ Gaming Coding ]
-    Languages: [ Chinese English ]
-    Email: social.github@sunxyw.xyz
-```
-
-<br/>
-
-<p align="center">
-    <img alt="GitHub profile" src="https://github-widgetbox.vercel.app/api/profile?username=sunxyw&data=followers,repositories,stars,commits">
-</p>
-
-#
-
-<p align="center">
-    <img align="center" height="300" width="300" alt="Software" src="assets/software.svg">
-</p>
-
-<img align="right" width="400" src="https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,nuxt,electron,bootstrap,tailwind,windi,laravel,dotnet&includeNames=true">
-
-<img width="400" src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,python,html,css,csharp,go,bash,xml,json,yaml,postgresql,mysql,sass,graphql,markdown&includeNames=true">
-
-<img align="right" width="400" src="https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yarn,webpack,firebase,mongodb,wordpress,vercel,redis,nodejs,heroku,apache,nginx,aws,jupyter,gradle,prettier&includeNames=true">
-
-<img width="400" src="https://github-widgetbox.vercel.app/api/skills?libraries=babel,jquery&includeNames=true">
-
-<img align="right" width="400" src="https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode,phpstorm&includeNames=true">
-
-<br/>
-
-By the way, I am available for work.
-
-<br/>
-<br/>
-
-#
-
-<details open="">
-<summary>
-  <strong>GitHub Stats</strong>
-</summary>
-<br>
-
-<p align="center">
-  <a href="https://github.com/JayantGoel001">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sunxyw&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=nightowl"/>
-  </a>
-  <a href="https://github.com/JayantGoel001">
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunxyw&layout=compact&hide_border=true&theme=nightowl&langs_count=10" />
-  </a>
-</p>
-</details>
-<br>
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=sunxyw&theme=material-palenight&hide_border=true&area=true)
-<br/>
-
-#
-
-<summary>
-  <strong>WakaTime Stats</strong>
-</summary>
-
-<a target="_blank">
-  <img align="right" height="330px" width="450px" src="https://wakatime.com/share/@sunxyw/88cd675d-f104-4d81-b895-0e01e5f14045.svg" >
-</a>
-
-<br>
-<br>
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C433%20hrs%2025%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.1%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 608.2 kB Used in GitHub's Storage 
- > 
-> 🏆 400 Contributions in the Year 2023
- > 
-> 💼 Opted to Hire
- > 
-> 📜 115 Public Repositories 
- > 
-> 🔑 24 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                87 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
-🌆 Daytime                1695 commits        ████████░░░░░░░░░░░░░░░░░   31.49 % 
-🌃 Evening                2792 commits        █████████████░░░░░░░░░░░░   51.87 % 
-🌙 Night                  809 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   1425 commits        ███████░░░░░░░░░░░░░░░░░░   26.47 % 
-Tuesday                  637 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-Wednesday                706 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
-Thursday                 546 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-Friday                   663 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
-Saturday                 750 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
-Sunday                   656 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
-```
+# 💫 About Me:
+Hi 👋, I'm Sunxyw.<br><br>❤️‍🔥 I'm a passionate full-stack developer with a focus on the backend<br>⚡ I love exploring and creating new things
 
 
-📊 **This Week I Spent My Time On** 
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Directus](https://img.shields.io/badge/directus-%2364f.svg?style=for-the-badge&logo=directus&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) ![ANSIBLE](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GRAFANA](https://img.shields.io/badge/grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white&color=%23F46800) ![KIBANA](https://img.shields.io/badge/kibana-005571.svg?style=for-the-badge&logo=kibana&logoColor=white&color=%23005571) ![LOGSTASH](https://img.shields.io/badge/logstash-005571.svg?style=for-the-badge&logo=logstash) ![NEWRELIC](https://img.shields.io/badge/newrelic-1CE783.svg?style=for-the-badge&logo=newrelic&logoColor=white&color=%231CE783) ![PROMETHEUS](https://img.shields.io/badge/prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white&color=%23E6522C) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sunxyw&theme=nord&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sunxyw&theme=nord&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sunxyw&theme=nord&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-```text
-🕑︎ Time Zone: Asia/Shanghai
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sunxyw&theme=nord&no-frame=true&no-bg=true&margin-w=4)
 
-💬 Programming Languages: 
-PHP                      5 hrs 5 mins        ███████████████████░░░░░░   76.89 % 
-GraphQL                  1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
-JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-YAML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-GitIgnore file           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-🔥 Editors: 
-PhpStorm                 6 hrs 37 mins       █████████████████████████   100.00 % 
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-🐱‍💻 Projects: 
-conto                    5 hrs 29 mins       █████████████████████░░░░   82.90 % 
-syncro                   39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
-clash-speedtester        17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
-zhamao-framework         6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-Unknown Project          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+---
+[![](https://visitcount.itsvg.in/api?id=sunxyw&icon=8&color=1)](https://visitcount.itsvg.in)
 
-💻 Operating System: 
-Windows                  6 hrs 37 mins       █████████████████████████   100.00 % 
-```
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/sunxyw) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/SunxywHere) 
 
-**I Mostly Code in PHP** 
-
-```text
-PHP                      66 repos            ███████████████░░░░░░░░░░   60.00 % 
-Go                       8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
-Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-Vue                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
-SCSS                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-```
-
-
-
-
- Last Updated on 24/04/2023 01:26:24 UTC
-<!--END_SECTION:waka-->
-
-<p align="center">
-  <a>
-    <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@sunxyw/81c35232-8190-44dc-bf6a-4e5a1f5bce02.svg"/>
-  </a>
-  <a>
-    <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@sunxyw/ac01922a-c108-4658-9047-2aac79770767.svg" />
-  </a>
-</p>
-
-#
-
-<p align="center">
-  <a href="https://github.com/sunxyw">
-    <img height="50" width="50" src="https://simpleicons.org/icons/github.svg">  
-  </a>
-  <h4 align="center">GitHub Metrics</h4>
-</p>
-
-<p align="center">
-  <a href="https://github.com/JayantGoel001/">
-    <img width="75%" src="assets/metrics.svg" />
-    <img width="75%" src="assets/metrics.detailed.svg" />
-  </a>
-</p>
-
-<h1>Contact Me</h1>
-
-<p align="center">
-  <br>
-  <a href="https://twitter.com/sunxyw" target="_blank">
-    <code><img height="60" width="60" src="https://simpleicons.org/icons/twitter.svg" /></code>
-  </a>
-</p>
-
-<br/>
-<br/>
-
-<div align="center">
-
-### Thanks for your visit!
-
-</div>
-
-#
-
-![](https://hit.yhype.me/github/profile?user_id=31698606)
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
