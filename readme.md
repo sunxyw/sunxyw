@@ -13,7 +13,7 @@ My name is sunxyw, welcome to my GitHub profile<br>
 I'm a self-taught passionate backend developer from HongKong :hong_kong:
 </p>
 
-> Please note that the following information (especially the skills) may be out of date as it was last updated a year ago.
+> Please note that the following information (especially the skills) may be out of date as it was last updated 2 years ago. An update is planned.
 
 <br/>
 <a target="_blank">
