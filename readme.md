@@ -13,6 +13,8 @@ My name is sunxyw, welcome to my GitHub profile<br>
 I'm a self-taught passionate backend developer from HongKong :hong_kong:
 </p>
 
+> Please note that the following information (especially the skills) may be out of date as it was last updated a year ago.
+
 <br/>
 <a target="_blank">
     <img align="right" height="220" width="400" alt="GIF" src="assets/programmer.svg">
