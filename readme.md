@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sunxyw.sunxyw&"  />
+  <img src="https://visitcount.itsvg.in/api?id=sunxyw&icon=8&color=1"  />
 </div>
 
 ###
